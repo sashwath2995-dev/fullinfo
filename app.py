@@ -15,7 +15,7 @@ HEADERS = {
 # ✅ Allowed API Keys (aap json/db se bhi load kara sakte ho)
 ALLOWED_KEYS = {
     "IAMFREEUSER": "Free User",
-    "456": "Premium User",
+    "IAMPREMIUMUSER555": "Premium User",
     "KEYADMINUNCOMMONCORE": "Admin"
 }
 
